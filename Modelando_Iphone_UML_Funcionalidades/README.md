@@ -39,6 +39,35 @@ Com base no vídeo de lançamento do iPhone de 2007 (link abaixo), você deve el
 
 # Criando uma modelagem UML das funcionalidade do Iphone Basico com base no video disponibilizado.
 
-![UML das funcionalidades desenvolvidas](Untitled diagram-2024-07-18-230544)
+![UML das funcionalidades desenvolvidas](https://github.com/wastenio/Modelando_iPhone_UML_Fun-es_M-sicas_Chamadas_Internet/blob/main/Modelando_Iphone_UML_Funcionalidades/src/main/java/com/image/UML%20funcionalidades%20Iphone.png)
+
+## Funcionalidades Basicas
+
+ - Tocar Musicas
+ - Realizar Ligação
+ - Navegar na Internet
+
+## Estrutura do projeto
+
+src
+    └── main
+        └── java
+            └── com
+                └── iphone
+                    └── iphone
+                    │   └── iPhone.java
+                    ├── musica
+                    │   └── ReprodutorMusical.java
+                    ├── telefone
+                    │   └── AparelhoTelefonico.java
+                    ├── navegador
+                    │   └── NavegadorNaInternet.java
+                    └── Main.java
+
+## Instalação e Execução do projeto
+
+- Clone o repositorio do projeto no seu computador
+- Abra a pasta do projeto no VsCode
+- Execute o arquivo Main.java
 
 
